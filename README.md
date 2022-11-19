@@ -1,1 +1,3 @@
 # trainings
+
+My trainings projects
